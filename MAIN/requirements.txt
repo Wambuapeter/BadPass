@@ -1,0 +1,9 @@
+asgiref==3.7.2
+backports.zoneinfo==0.2.1
+colorama==0.4.6
+Django==4.2.2
+Pillow==9.5.0
+sqlparse==0.4.4
+termcolor==2.3.0
+termcolors==0.1.0
+typing-extensions==4.6.3
